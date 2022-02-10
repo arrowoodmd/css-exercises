@@ -1,0 +1,18 @@
+.title {
+    background-color: rgb(235, 85, 130); font-family: Verdana, DejaVu Sans, Tahoma, sans-serif;
+}
+.title2 {
+    font-size: 24px;
+}
+
+#title {
+    color: royalblue;
+    font-size: 36px;
+}
+
+#title1 {
+    background-color: rgb(116, 236, 168);
+    color: black;
+    font-size: 24px;
+    font-weight: bold;
+}
